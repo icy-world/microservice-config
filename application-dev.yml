@@ -21,3 +21,6 @@ zuul:
 
 #禁用过滤器，默认的过滤器也可以这样来配置
 zuul.AccessFilter.pre.disable: true
+
+
+aaa: bbb
